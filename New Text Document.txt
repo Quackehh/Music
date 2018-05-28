@@ -1,0 +1,1 @@
+            message.channel.sendMessage(":no_entry_sign: Invalid Command:no_entry_sign: ");
